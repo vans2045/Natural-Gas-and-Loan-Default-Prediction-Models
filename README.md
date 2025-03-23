@@ -39,9 +39,9 @@ Quantitative Research Project – Natural Gas Commodity Trading & Credit Risk An
 - **R-squared (R²):** 0.92
   
 ## Model Performance - Credit Risk Analysis
-- **Mean Absolute Error (MAE):** 0.17
-- **Mean Squared Error (MSE):** 0.05
-- **R-squared (R²):** 0.92
+- **Mean Absolute Error (MAE):** 0.011
+- **Mean Squared Error (MSE):** 0.0035
+- **R-squared (R²):** 0.97
 
 ## 📊 Dataset
 
