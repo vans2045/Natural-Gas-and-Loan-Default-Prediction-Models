@@ -61,7 +61,7 @@ The datasets used in this project are publicly available as part of **JP Morgan 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Quantitative-Research-Project.git
+   git clone https://github.com/vans2045/Quantitative-Research-Project.git
 
 ---
 
