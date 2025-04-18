@@ -1,6 +1,6 @@
 # Quantitative Research Project – Natural Gas Commodity Trading & Credit Risk Analysis Model
 
-Quantitative Research Project – Natural Gas Commodity Trading & Credit Risk Analysis
+Quantitative Research Project – Natural Gas Commodity Trading & Credit Risk Analysis.
 
 - Developed a time series forecasting model to predict natural gas prices, incorporating both a linear trend and seasonal variations to extrapolate historical data and project future prices.
 
